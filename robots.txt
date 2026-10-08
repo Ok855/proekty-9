@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://ok855.github.io/proekty-9/sitemap.xml
+
